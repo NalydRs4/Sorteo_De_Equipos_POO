@@ -9,7 +9,6 @@ Unidad 3. Manejo de Excepciones y Archivos.
 **Instrucciones de Instalación:**
 
 - Copiar el enlace HTTPS: https://github.com/NalydRs4/Sorteo_De_Equipos_POO.git
-
 - Abrir nuevo espacio de trabajo en el programa a clonar y seleccionar Clonar Repositorio Git y pegar el enlace HTTPS.
 - Tendrá dos paquetes al final, uno llamado CONTENIDO donde se encuentran la clase de Métodos para el Sorteo usado en el Menú.
 - El otro paquete será EJECUCION donde tendrá la clase Menú para poder ejecutar el proyecto.
