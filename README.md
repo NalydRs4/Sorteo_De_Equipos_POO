@@ -2,7 +2,7 @@
 
 *Programación Orientada a Objetos*
 
-Unidad 3. Manejo de Excepciones y Archivos.
+Unidad 3. Manejo de Excepciones.
 
 <img width="448" height="252" alt="68e084f2b3bac r_d 409-307-4203" src="https://github.com/user-attachments/assets/12be00a9-d723-4e6e-9347-b2c5ff184066" />
 
